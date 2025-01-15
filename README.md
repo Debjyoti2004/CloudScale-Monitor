@@ -36,47 +36,11 @@ A robust, production-ready AWS infrastructure implementing auto-scaling across m
     <div class="screenshot-box">
         <img src="./assets/dashboard-screenshot.png" alt="AWS Auto Scaling Dashboard" class="screenshot">
        
-    </div>
+
 <div class="screenshot-box">
         <img src="./assets/metrics-screenshot.png" alt="Example Deployment Screenshot" class="screenshot">
     </div>
 </div>
-
-<style>
-.screenshot-gallery {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
-    margin: 1rem 0;
-}
-
-.screenshot-box {
-    background: #fff;
-    border: 1px solid #eee;
-    border-radius: 8px;
-    overflow: hidden;
-}
-
-.screenshot {
-    width: 100%;
-    height: auto;
-    border-bottom: 1px solid #eee;
-}
-
-.caption {
-    padding: 0.5rem;
-    margin: 0;
-    text-align: center;
-    font-size: 0.9rem;
-    color: #666;
-}
-
-@media (max-width: 768px) {
-    .screenshot-gallery {
-        grid-template-columns: 1fr;
-    }
-}
-</style>
 
 ## 🚀 Deployment Guide
 
@@ -141,28 +105,6 @@ The architecture is designed to handle:
 
 </div>
 
-
-.developer-profile {
-  text-align: center;
-  padding: 20px;
-  background: linear-gradient(145deg, #f6f8fa, #ffffff);
-  border-radius: 10px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-.profile-image {
-  border-radius: 50%;
-  border: 4px solid #ffffff;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-}
-
-.social-links {
-  display: flex;
-  justify-content: center;
-  gap: 15px;
-  margin-top: 15px;
-}
-</style>
 
 ## 📝 License
 
