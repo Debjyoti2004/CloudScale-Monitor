@@ -32,14 +32,13 @@ A robust, production-ready AWS infrastructure implementing auto-scaling across m
 ## 📸 Deployment Screenshots
 
 <div class="screenshot-gallery">
-   
+    <!-- Example Screenshot -->
     <div class="screenshot-box">
         <img src="./assets/dashboard-screenshot.png" alt="AWS Auto Scaling Dashboard" class="screenshot">
        
     </div>
 <div class="screenshot-box">
         <img src="./assets/metrics-screenshot.png" alt="Example Deployment Screenshot" class="screenshot">
-       
     </div>
 </div>
 
@@ -142,7 +141,7 @@ The architecture is designed to handle:
 
 </div>
 
-<style>
+
 .developer-profile {
   text-align: center;
   padding: 20px;
