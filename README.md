@@ -1,4 +1,4 @@
-# 🚀 AWS Auto-scaling High-Availability Application
+# 🚀 AWS Scalable Infrastructure with Monitoring and Alerts
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
@@ -32,14 +32,14 @@ A robust, production-ready AWS infrastructure implementing auto-scaling across m
 ## 📸 Deployment Screenshots
 
 <div class="screenshot-gallery">
+   
     <div class="screenshot-box">
-        <img src="./assets/dashboard-view.png" alt="AWS Auto Scaling Dashboard" class="screenshot">
-        <p class="caption">Auto Scaling Dashboard - Active Instances & Metrics</p>
+        <img src="./assets/dashboard-screenshot.png" alt="AWS Auto Scaling Dashboard" class="screenshot">
+       
     </div>
-
-    <div class="screenshot-box">
-        <img src="./assets/metrics-view.jpg" alt="Performance Metrics" class="screenshot">
-        <p class="caption">CloudWatch Metrics - CPU Utilization & Scaling Events</p>
+<div class="screenshot-box">
+        <img src="./assets/metrics-screenshot.png" alt="Example Deployment Screenshot" class="screenshot">
+       
     </div>
 </div>
 
@@ -78,16 +78,6 @@ A robust, production-ready AWS infrastructure implementing auto-scaling across m
     }
 }
 </style>
-
-### 📥 Adding Screenshots
-```bash
-
-mkdir -p assets
-
-
-cp dashboard-screenshot.png assets/dashboard-view.png
-cp metrics-screenshot.png assets/metrics-view.jpg
-```
 
 ## 🚀 Deployment Guide
 
@@ -148,8 +138,8 @@ The architecture is designed to handle:
 
 <div align="center">
   <img src="./assets/profile.jpg" width="200px" style="border-radius: 50%; margin-bottom: 20px;">
-  <h3>Your Name</h3>
-  <p>Senior Cloud Architect</p>
+  <h3>Debjyoti Shit</h3>
+
 </div>
 
 <style>
